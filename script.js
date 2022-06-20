@@ -29,4 +29,4 @@
     const passwordInput = prompt('Enter your password')
 
     signIn(usernameInput, passwordInput);
-    console.log(userValid('ALIPHA', 'eniola'))
+    console.log(userValid('ALIPHA', 'HYDRO'))
