@@ -4,7 +4,9 @@
         {username: 'HYDRO', password: 'carbon'},
     ];
 
-    const timeline = [{username: 'ALIPHA', tewwt: 'Go get your PVC'},{usernam: 'HYDRO', tweet: 'Agba Senior Dev'}]
+    const timeline = [{username: 'ALIPHA', tewwt: 'Go get your PVC'},
+                      {usernam: 'HYDRO', tweet: 'Agba Senior Dev'}
+                     ]
 
     function userValid(username, password){
         for(let i = 0; i < users.length; i++){
